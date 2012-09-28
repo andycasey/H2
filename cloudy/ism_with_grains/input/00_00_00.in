@@ -1,0 +1,13 @@
+title model
+radius 30
+print last
+CMB redshift 0.56
+stop temperature = 10K linear
+hden -3.5
+abundances ism
+metals and grains -2.5 log
+stop neutral column density 18.0
+set trimming -20
+table ism
+iterate 2 times
+save incident continuum "qg_ism_nuFnu.dat"

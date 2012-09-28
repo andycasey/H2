@@ -1,0 +1,13 @@
+title model
+radius 30
+print last
+CMB redshift 0.56
+stop temperature = 10K linear
+hden -4.0
+metals -3.0 log
+stop neutral column density 18.0
+set trimming -20
+f(nu) =  -17.636
+table AGN
+iterate 2 times
+save incident continuum "qg_nuFnu.dat"

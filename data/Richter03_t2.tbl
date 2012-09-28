@@ -1,0 +1,67 @@
+|    bgobject|    bgtype|     l|     b|  vIVC|       IVC_name|        NHI|       H2note|lNH2|        NH2|  lf|      f|                  Remarks|
+|        char|      char|double|double|double|           char|     double|         char|char|     double|char| double|                     char|
+|            |          |   deg|   deg|  km/s|               |log10 cm^-2|             |    |log10 cm^-2|    |log10 f|                         |
+      Mrk 509        QSO  35.97 -29.86   60.0      Complex gp       19.51           Yes            14.92         -4.3                           
+      vZ 1128       Star   42.5  78.68   29.0             ...       19.31   No evidence    <       15.04    <    -4.0                           
+     Mrk 1513    Seyfert  63.67 -29.07  -29.0             ...       19.37   No evidence    <       16.43    <    -2.6                           
+      Mrk 501      BLLac   63.6  38.86  -38.0             ...       19.17   No evidence    <       17.08    <    -1.8                   Low S/N 
+  PG 1444+407        QSO   69.9  62.72  -30.0             ...       19.53   No evidence    <       17.38    <    -1.9                   low S/N 
+      Mrk 487     Galaxy  87.84  49.03  -85.0 IV Arch (IV 15)       19.16   No evidence    <       17.43    <    -1.4                   Low S/N 
+     NGC 7714    Seyfert  88.22 -55.56  -50.0             ...        19.4      Possibly    <       17.03    <    -2.1                   Low S/N 
+      Mrk 876        QSO  98.27  40.38  -30.0           Draco       19.84           Yes            15.57         -4.0                           
+     NGC 7673     Galaxy  99.25  -35.4  -53.0         PP Arch       19.25   No evidence    <       17.14    <    -1.8                   Low S/N 
+      Mrk 817    Seyfert  100.3  53.48  -40.0         IV Arch       19.33   No evidence    <       14.95    <    -4.1                           
+     NGC 5461 M101, H II 101.89  59.76  -51.0 IV Arch (IV 19)       19.49   No evidence    <       16.32    <    -2.9                   Low S/N 
+      Mrk 335    Seyfert 108.76 -41.42  -27.0             ...        20.0      Possibly    <       15.82    <    -3.9                   Low S/N 
+       Mrk 59     Galaxy 111.54  82.12  -44.0         IV Arch       19.31           Yes            14.72         -4.3                           
+  PG 1351+640        QSO 111.89  52.02  -47.0 IV Arch (IV 19)       20.05           Yes            16.43         -3.3                  See \S 3 
+                            nan    nan  -74.0  IV Arch (IV 9)        19.2   No evidence    <       15.18    <    -3.7                           
+    HD 121800       Star 113.01  49.76  -70.0         IV Arch       19.86           Yes            14.29         -5.3                           
+      Mrk 279    Seyfert 115.04  46.86  -40.0       LLIV Arch        19.8   No evidence    <       14.85    <    -4.6                           
+                            nan    nan  -76.0  IV Arch (IV 9)       19.42   No evidence    <       14.85    <    -4.3                           
+  PG 1259+593        QSO 120.56  58.05  -54.0         IV Arch        19.5           Yes             14.1         -5.1                           
+  PG 0052+251        QSO 123.91 -37.44  -39.0             ...       19.82      Possibly    <       17.12    <    -2.4                   Low S/N 
+      Mrk 352    Seyfert 125.03 -31.01  -28.0             ...       20.33      Possibly    <       17.05    <    -3.0                   Low S/N 
+      Mrk 205    Seyfert 125.45  41.67  -48.0       LLIV Arch       19.71      Possibly    <       16.69    <    -2.7                   Low S/N 
+     3C 249.1        QSO 130.39  38.55  -50.0       LLIV Arch        19.8      Possibly    <        17.0    <    -2.5                   Low S/N 
+      Mrk 357    Seyfert  132.2 -39.14  -41.0             ...       19.58      Possibly    <       17.16    <    -2.1                   Low S/N 
+     NGC 3516    Seyfert 133.24   42.4  -47.0       LLIV Arch       19.91      Possibly    <       17.23    <    -2.4                   Low S/N 
+      Mrk 209     Galaxy 134.15  68.08  -55.0         IV Arch       19.61   No evidence    <       16.79    <    -2.5                           
+                            nan    nan -100.0  IV Arch (IV 4)       19.06   No evidence    <       16.79    <    -2.0                           
+  PG 0804+761        QSO 138.28  31.03  -58.0       LLIV Arch       19.56           Yes            14.71         -4.5                           
+     NGC 3690     Galaxy 141.91  55.41  -54.0         IV Arch       19.56   No evidence    <       16.77    <    -2.5                           
+ HS 0624+6907        QSO 145.71  23.35  -27.0       LLIV Arch       20.15   No evidence    <       17.41    <    -2.4                   Low S/N 
+  PG 0832+675       Star 147.75  35.01  -50.0       LLIV Arch       19.99           Yes            15.76         -3.9                           
+     NGC 4151    Seyfert 155.08  75.06  -29.0 IV Arch (IV 26)        20.2           Yes            15.36         -4.5                           
+     NGC 3310    Seyfert  156.6  54.06  -47.0         IV Arch        19.8           Yes            14.95         -4.5                           
+        Mrk 9    Seyfert 158.36  28.75  -40.0       LLIV Arch        19.6      Possibly    <       16.48    <    -2.8        Strong local H_{2} 
+     NGC 4214     Galaxy 160.24  78.07  -33.0 IV Arch (IV 26)       20.13      Possibly    <       15.74    <    -4.1                           
+      Mrk 116     Galaxy 160.53  44.84  -39.0       LLIV Arch       19.48      Possibly    <       16.35    <    -2.8                   Low S/N 
+      Mrk 106    Seyfert 161.14  42.88  -40.0       LLIV Arch       19.35      Possibly    <       17.48    <    -1.6                   Low S/N 
+     NGC 1068    Seyfert  172.1 -51.93  -58.0             ...       19.08   No evidence    <       15.26    <    -3.5                           
+  PG 0953+414        QSO 179.79  51.71  -49.0 IV Arch (IV 16)       19.33   No evidence    <       15.07    <    -4.0                           
+      Mrk 421      BLLac 179.83  65.03  -61.0 IV Arch (IV 26)       19.78   No evidence    <       14.93    <    -4.5                           
+  PG 0947+396        QSO 182.85  50.75  -66.0 IV Arch (IV 16)       19.68   No evidence    <       17.11    <    -2.3                   Low S/N 
+     HD 93521       Star 183.14  62.15  -62.0         IV Arch       19.58           Yes             14.6         -4.7                    ORFEUS 
+     NGC 3991     Galaxy 185.68   77.2  -53.0 IV Arch (IV 18)       19.86   No evidence    <       17.26    <    -2.3                   Low S/N 
+     Ton 1187        QSO 188.33  55.38  -27.0         IV Arch       19.55   No evidence    <        17.4    <    -1.9                   Low S/N 
+                            nan    nan  -69.0         IV Arch       19.47   No evidence    <        17.4    <    -1.8                   Low S/N 
+  PG 1001+291        QSO 200.09   53.2  -32.0 IV Arch (IV 18)       20.12      Possibly    <       17.18    <    -2.6                   Low S/N 
+ HE 0238-1904        QSO 200.48 -63.63  -42.0             ...       19.33   No evidence    <        17.1    <    -1.9                   Low S/N 
+       Mrk 36     Galaxy 201.76  66.49  -55.0 IV Arch (IV 18)       19.83      Possibly    <       17.15    <    -2.4                   Low S/N 
+     NGC 3504     Galaxy  204.6  66.04  -52.0 IV Arch (IV 18)       19.85      Possibly    <       16.33    <    -3.2                   Low S/N 
+      Mrk 618    Seyfert 206.72 -34.66  -27.0             ...       19.56      Possibly    <       17.15    <    -2.1                   Low S/N 
+  PG 1116+215        QSO 223.36  68.21  -42.0         IV Spur       19.83           Yes            15.27         -4.3                           
+      Mrk 734    Seyfert 244.75  63.94  -42.0         IV Spur       19.81   No evidence    <        16.9    <    -2.6                   Low S/N 
+ PKS 0558-504        QSO 257.96 -28.57   26.0             ...       20.31 [No evidence]              nan          nan No atomic absorption seen 
+                            nan    nan   71.0             ...       19.62 [No evidence]              nan          nan No atomic absorption seen 
+    HD 100340       Star 258.85  61.23  -29.0         IV Spur       19.98           Yes            15.98         -3.7                      MWRS 
+     NGC 1705     Galaxy 261.08 -38.74   87.0             ...       19.64 [No evidence]              nan          nan No atomic absorption seen 
+  PG 1211+143        QSO 267.55  74.32  -35.0         IV Spur       19.94   No evidence    <       15.23    <    -4.4                           
+      Mrk 771    Seyfert 269.44  81.74  -29.0         IV Spur       19.93   No evidence    <       16.78    <    -2.8                   Low S/N 
+     NGC 3783    Seyfert 287.46  22.95   34.0             ...       19.44      Possibly    <       16.52    <    -2.6                           
+                            nan    nan   62.0             ...        20.0   No evidence    <       15.84    <    -3.9                           
+       3C 273        QSO 289.95  64.36   25.0             ...       19.42           Yes            15.71         -3.4                           
+ HE 1228+0131        QSO 291.26  63.66   27.0             ...       19.26   No evidence    <       15.96    <    -3.0                   Low S/N 
+ Tol 1247-232     Galaxy  302.6   39.3   54.0             ...        19.4   No evidence    <       17.24    <    -1.9                   Low S/N 
+  ESO 141-G55    Seyfert 338.18 -26.71  -45.0             ...       19.27   No evidence    <       17.02    <    -2.0                           

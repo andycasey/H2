@@ -1,0 +1,23 @@
+# logN, logN sigma down, logN sigma up (same as up if not given). For
+# a lower limit, set sigma down to 0 and sigma up to something big.
+# For an upper limit, set sigma up to 0 and sigma down to something
+# big.
+
+MgII =  14.01 0.03
+MgI  =  12.31  0.08  
+CaII =  12.40  0.06
+FeII =  14.06  0.04
+FeI  =  13.5   5    0
+CaI  =  11.5  5    0
+
+HI  = 19.5 0.2
+
+OI  = 15.43 0.04
+NI  = 14.4  5    0
+NII = 14.51 0.04 0.05
+CI  = 13.53 0.24 0.77
+CII = 14.8  0    5
+CIII = 14.3  0    5
+SiII = 14.79 0.64 0.23 
+SiIII = 13.7  0  5
+SiIV = 13.5 5   0
