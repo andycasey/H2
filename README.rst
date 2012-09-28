@@ -2,7 +2,7 @@ This repository contains much of the data and code that was used for
 the paper by Crighton et al., "A high molecular fraction in a
 sub-damped absorber at z=0.56". There's no need to have git installed
 to download the repository, click on 'Downloads' at the top right of
-this page and you can download the whole repositroty as a .zip of
+this page and you can download the whole repository as a .zip of
 .tar.gz file.
 
 Below is a short explanation of the all the files included.
@@ -85,10 +85,10 @@ paper.
 This contains most of the modules needed by the various python
 scripts. You will also need the following packages installed:
 
-  - Numpy and Scipy,    http://numpy.scipy.org/
-  - Matplotlib,         http://matplotlib.org/
-  - Pyfits,             http://www.stsci.edu/institute/software_hardware/pyfits
-  - Atpy,               http://atpy.github.com/
+- Numpy and Scipy,    http://numpy.scipy.org/
+- Matplotlib,         http://matplotlib.org/
+- Pyfits,             http://www.stsci.edu/institute/software_hardware/pyfits
+- Atpy,               http://atpy.github.com/
 
 The Enthought Python distribution
 (http://www.enthought.com/products/epd_free.php) is a quick way to
