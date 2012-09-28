@@ -85,10 +85,10 @@ code or data for a publication, please cite the paper.
   This contains most of the modules needed by the various python
   scripts. You will also need the following packages installed:
 
-    Numpy and Scipy    http://numpy.scipy.org/
-    Matplotlib         http://matplotlib.org/
-    Pyfits             http://www.stsci.edu/institute/software_hardware/pyfits
-    Atpy               http://atpy.github.com/
+   - Numpy and Scipy,    http://numpy.scipy.org/
+   - Matplotlib,         http://matplotlib.org/
+   - Pyfits,             http://www.stsci.edu/institute/software_hardware/pyfits
+   - Atpy,               http://atpy.github.com/
 
   The Enthought Python distribution
   (http://www.enthought.com/products/epd_free.php) is a quick way to
