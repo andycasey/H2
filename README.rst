@@ -1,21 +1,20 @@
 This repository contains much of the data and code that was used for
-the paper by Crighton et al, "A high molecular fraction in a
+the paper by Crighton et al., "A high molecular fraction in a
 sub-damped absorber at z=0.56". There's no need to have git installed
 to download the repository, click on 'Downloads' at the top right of
-the repository page and you can download the whole repositroty as a
-.zip of .tar.gz file.
+this page and you can download the whole repositroty as a .zip of
+.tar.gz file.
 
 Below is a short explanation of the all the files included.
 
 If you need any help understanding what was done for the paper, or
 getting the code to run, please contact me (neilcrighton .at. gmail
-.dot. com). If you find any of data or code in the repository useful,
-please let me know by email. Finally, if you use any of the code or
-data for a publication, please the paper.
+.dot. com). If you find any of the data or code in the repository
+useful, please let me know by email. Finally, if you use any of the
+code or data for a publication, please cite the paper.
 
 
-data/
-=====
+**data/**
 
   This directory contains data and catalogues used in the paper.
 
@@ -71,21 +70,18 @@ data/
     measured for the sub-DLA, for all components summed and for each
     component individually. See the README in this directory.
 
-cloudy/
-=======
+**cloudy/**
 
   Example cloudy input files for each of the scenarios described in
   Section 4.5 of the paper.
 
-scripts/
-========
+**scripts/**
 
   Python scripts used to perform many of the calculations in the
   paper. Note that there are several packages not included in this
   repository that are required for some of the scripts.
 
-modules/
-========
+**modules/**
 
   This contains most of the modules needed by the various python
   scripts. You will also need the following packages installed:
@@ -100,8 +96,7 @@ modules/
   install most of these.
 
 
-mcmc/
-=====
+**mcmc/**
 
   The samples from the monte carlo markov chains generated with Emcee,
   and the python module used to define the likelihood.
