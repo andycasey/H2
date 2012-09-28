@@ -1,18 +1,23 @@
 This repository contains much of the data and code that was used for
 the paper by Crighton et al, "A high molecular fraction in a
-sub-damped absorber at z=0.56". Below is a short explanation of the
-all the files included.
+sub-damped absorber at z=0.56". There's no need to have git installed
+to download the repository, click on 'Downloads' at the top right of
+the repository page and you can download the whole repositroty as a
+.zip of .tar.gz file.
+
+Below is a short explanation of the all the files included.
 
 If you need any help understanding what was done for the paper, or
 getting the code to run, please contact me (neilcrighton .at. gmail
-.dot. com).
+.dot. com). If you find any of data or code in the repository useful,
+please let me know by email. Finally, if you use any of the code or
+data for a publication, please the paper.
 
 
 data/
 =====
 
   This directory contains data and catalogues used in the paper.
-
 
   C.txt
    
