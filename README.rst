@@ -72,30 +72,30 @@ This directory contains data and catalogues used in the paper.
 
 **cloudy/**
 
-  Example cloudy input files for each of the scenarios described in
-  Section 4.5 of the paper.
+Example cloudy input files for each of the scenarios described in
+Section 4.5 of the paper.
 
 **scripts/**
 
-  Python scripts used to perform many of the calculations in the
-  paper.
+Python scripts used to perform many of the calculations in the
+paper.
 
 **modules/**
 
-  This contains most of the modules needed by the various python
-  scripts. You will also need the following packages installed:
+This contains most of the modules needed by the various python
+scripts. You will also need the following packages installed:
 
   - Numpy and Scipy,    http://numpy.scipy.org/
   - Matplotlib,         http://matplotlib.org/
   - Pyfits,             http://www.stsci.edu/institute/software_hardware/pyfits
   - Atpy,               http://atpy.github.com/
 
-  The Enthought Python distribution
-  (http://www.enthought.com/products/epd_free.php) is a quick way to
-  install most of these.
+The Enthought Python distribution
+(http://www.enthought.com/products/epd_free.php) is a quick way to
+install most of these.
 
 
 **mcmc/**
 
-  The samples from the monte carlo markov chains generated with Emcee,
-  and the python module used to define the likelihood.
+The samples from the monte carlo markov chains generated with Emcee,
+and the python module used to define the likelihood.
