@@ -78,8 +78,7 @@ code or data for a publication, please cite the paper.
 **scripts/**
 
   Python scripts used to perform many of the calculations in the
-  paper. Note that there are several packages not included in this
-  repository that are required for some of the scripts.
+  paper.
 
 **modules/**
 
