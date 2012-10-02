@@ -2,7 +2,7 @@ This repository contains much of the data and code that was used for
 the paper by Crighton et al., "A high molecular fraction in a
 sub-damped absorber at z=0.56". There's no need to have git installed
 to download the repository, click on 'Downloads' at the top right of
-this page and you can download the whole repository as a .zip of
+this page and you can download the whole repository as a .zip or
 .tar.gz file.
 
 Below is a short explanation of the all the files included.
