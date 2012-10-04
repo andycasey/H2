@@ -66,7 +66,7 @@ This directory contains data and catalogues used in the paper.
 
 - observed_logN/
   
-  Text files with the column densities of all the transistions
+  Text files with the column densities of all the transitions
   measured for the sub-DLA, for all components summed and for each
   component individually. See the README in this directory.
 
