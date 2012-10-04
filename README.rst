@@ -11,7 +11,8 @@ If you need any help understanding what was done for the paper, or
 getting the code to run, please contact me (neilcrighton .at. gmail
 .dot. com). If you find any of the data or code in the repository
 useful, please let me know by email. Finally, if you use any of the
-code or data for a publication, please cite the paper.
+code or data for a publication, please cite the paper
+(http://arxiv.org/abs/1210.0905).
 
 
 **data/**
