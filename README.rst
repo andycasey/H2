@@ -5,7 +5,7 @@ to download the repository, click on 'Downloads' at the top right of
 this page and you can download the whole repository as a .zip or
 .tar.gz file.
 
-Below is a short explanation of the all the files included.
+Below is a short explanation of the files included.
 
 If you need any help understanding what was done for the paper, or
 getting the code to run, please contact me (neilcrighton .at. gmail
