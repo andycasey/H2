@@ -27,11 +27,9 @@ This directory contains data and catalogues used in the paper.
  
 - q0107c_HIRES.txt
  
-  Combined HIRES spectrum, with columns wavelength (Angstroms),
-  flux, error (1 sigma), continuum. The raw exposures will be
-  available in the Keck archive
-  (http://www2.keck.hawaii.edu/koa/public/koa.php) in late 2012/
-  early 2013. Email me if you need them before this.
+  Combined HIRES spectrum, with columns wavelength (Angstroms), flux,
+  error (1 sigma), continuum. The raw exposures are available in the
+  Keck archive (http://www2.keck.hawaii.edu/koa/public/koa.php).
  
 - qsoc_G190H.txt
  

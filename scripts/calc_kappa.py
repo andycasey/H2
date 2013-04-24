@@ -13,8 +13,6 @@
 # Calculate depletion using Fe/O (Assume all O is in OI, all Fe in
 # FeII).
 
-# log10 N(OI) 15.40  +/- 0.04
-
 from barak.absorb import split_trans_name
 from barak.utilities import adict
 from cloudy.cloudy_utils import read_observed, get_ratio
@@ -56,12 +54,6 @@ def calc_kappa(idep, inodep, obs):
     return np.array([kappa, kappalo, kappahi])
 
 obs = adict(read_observed('../cloudy/observed_logN/total'))
-
-logNo1 = 15.4
-logNsi2 = 14.79
-logNfe2 = 14.08
-logNmg2 = 14.01
-logNHI = 19.5
 
 from barak.abundances import calc_abund
 
