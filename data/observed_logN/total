@@ -10,11 +10,17 @@ FeII =  14.06  0.04
 FeI  =  13.5   5    0
 CaI  =  11.5  5    0
 
+# upper limit measured from AOD in Ti 3242 (3384 falls in gap between
+# echelle orders) 
+TiII = 12.41 5 0
+
 HI  = 19.5 0.2
 
-OI  = 15.43 0.04
-NI  = 14.4  5    0
-NII = 14.51 0.04 0.05
+#OI  = 15.43 0.04
+OI  = 15.53 0.25 0.24
+NI  = 14.4  5   0
+#NII = 14.51 0.04 0.05
+NII = 14.73 0.19 0.17
 CI  = 13.53 0.24 0.77
 CII = 14.8  0    5
 CIII = 14.3  0    5
